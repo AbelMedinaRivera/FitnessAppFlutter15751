@@ -1,0 +1,4 @@
+#Mon Nov 25 15:04:53 CST 2019
+base.0=D\:\\Users\\abelm\\Desktop\\fitness_app\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
